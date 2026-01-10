@@ -1,5 +1,5 @@
 # Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks
-The Repository for EACL 2026 Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks. Under review of ACL 2026.
+The Repository for EACL 2026 Paper: Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks. 
 Code reproduction instruction under construction.
 
 ## Preprint Paper
